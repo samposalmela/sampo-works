@@ -1,0 +1,4 @@
+baseURL = 'http://sampo.works/'
+languageCode = 'en-us'
+title = 'sampo.works'
+theme = 'hello-friend-ng'
